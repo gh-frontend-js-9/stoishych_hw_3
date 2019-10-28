@@ -693,7 +693,7 @@ button:focus {
         margin-bottom: 87px;
     }
 }
-@media screen and (max-width:945px) {
+@media screen and (max-width:962px) {
     .menu-wrap {
         display: inline-block;
     }
